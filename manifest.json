@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "TOTP Code Generator3",
+  "name": "TOTP Code Generator",
   "version": "1.0.0",
   "description": "Generate TOTP codes for websites with secure local storage",
   
@@ -23,7 +23,7 @@
   
   "action": {
     "default_popup": "popup.html",
-    "default_title": "TOTP Code Generator3",
+    "default_title": "TOTP Code Generator",
     "default_icon": {
       "16": "icons/icon16.png",
       "48": "icons/icon48.png",
