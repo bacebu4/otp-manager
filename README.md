@@ -1,6 +1,9 @@
 # TOTP Code Generator Chrome Extension
 
-A secure Chrome extension that generates Time-based One-Time Password (TOTP) codes for websites with local storage and convenient auto-fill functionality.
+A Chrome extension that generates Time-based One-Time Password (TOTP) codes for websites with local storage and convenient auto-fill functionality.
+
+> [!WARNING]
+> Most of the code was generated with Claude
 
 ## Features
 
