@@ -5,6 +5,8 @@ A Chrome extension that generates Time-based One-Time Password (TOTP) codes for 
 > [!WARNING]
 > Most of the code was generated with Claude
 
+[Download in Chrome Web Store](https://chromewebstore.google.com/detail/gedmajfchdeamaieekfiobdfpdheaoob?utm_source=item-share-cb)
+
 ## Features
 
 - **Domain-based**: Secrets are automatically filtered by the current website domain
@@ -12,7 +14,7 @@ A Chrome extension that generates Time-based One-Time Password (TOTP) codes for 
 - **Auto-fill Shortcut**: Generate and paste TOTP codes directly into input fields using `Ctrl+Shift+T` (or `Cmd+Shift+T` on Mac)
 - **Import/Export**: Backup and restore your secrets in JSON format
 
-## Installation
+## Manual Installation
 
 1. Clone or download this repository
 2. Open Chrome and navigate to `chrome://extensions/`
